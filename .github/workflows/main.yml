@@ -28,7 +28,7 @@ jobs:
           external_repository: Quality-Assurance-DAO/Quality-Assurance-DAO.github.io
           publish_dir: ./public
           keep_files: true
-          user_name: <username>
+          user_name: stephen-rowan
           user_email: <username@email.com>
           publish_branch: master
         #   cname: example.com
